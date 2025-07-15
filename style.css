@@ -39,6 +39,11 @@
     color: white;
     font-size: 17px;
 }
+#menu>ul>li>a:hover{
+    text-decoration: none;
+    color: gold;
+    font-size: 17px;
+}
 #banner{
     background-image: url('images/7025253.jpg');
     background-size: cover;
